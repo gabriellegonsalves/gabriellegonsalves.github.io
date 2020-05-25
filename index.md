@@ -14,3 +14,8 @@ Stay a while
 
 
 [learn more about me](about)
+
+
+#nice hedgehog
+
+![hedgehog](http://i.ytimg.com/vi/u7RUz5MiqGs/maxresdefault.jpg)
