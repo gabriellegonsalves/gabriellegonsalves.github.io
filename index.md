@@ -2,20 +2,24 @@
 
 Stay a while
 
-### Markdown
+### Ways to prepare an egg for consumption
+-- scramble
+-- sunnyside
+-- boiled
+-- so 
+-- many
+-- options
 
-### hi
--- eggs
-
-## lists
-1. Numbered
-2. List
+## Things that are great
+1. Numbers
+2. Lists
+3. 
 
 
 
 [learn more about me](about)
 
 
-#nice hedgehog
+#peep a nice hedgehog
 
 ![hedgehog](http://i.ytimg.com/vi/u7RUz5MiqGs/maxresdefault.jpg)
