@@ -3,12 +3,12 @@
 Stay a while
 
 ### Ways to prepare an egg for consumption
--- scramble
--- sunnyside
--- boiled
--- so 
--- many
--- options
+- scramble
+- sunnyside
+- boiled
+- so 
+- many
+- options
 
 ## Things that are great
 1. Numbers
